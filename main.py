@@ -1,7 +1,7 @@
 from __future__ import print_function
 import pyzbar.pyzbar as pyzbar
 import numpy as np
-import cv2
+import opencv as cv2 
 import tkinter as tk
 from PIL import Image, ImageTk
 import io
